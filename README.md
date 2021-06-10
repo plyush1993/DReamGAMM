@@ -1,6 +1,7 @@
 # DReamGAMM
 ## Brief Description
 R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model.
+
 Please send any comment, suggestion or question you may have to the author (Mr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.
 
 ## Requirements

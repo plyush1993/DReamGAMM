@@ -5,7 +5,7 @@
 library(data.table)
 library(dplyr)
 
-setwd("D:/Plyush/rats/for SA/reduced/")
+setwd("D:/...")
 
 ###########################################
 # Prepare data set

@@ -8,5 +8,9 @@ R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model
 ## Citation:
 > [Vokuev, M.F., Baygildiev, Т.М., Plyushchenko, I.V. et al. Untargeted and targeted analysis of sarin poisoning biomarkers in rat urine by liquid chromatography and tandem mass spectrometry. Anal Bioanal Chem (2021).](https://doi.org/10.1007/s00216-021-03655-3)
 
+<p align="center">
+  <a href="https://www.scimagojr.com/journalsearch.php?q=23913&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23913" alt="SCImago Journal &amp; Country Rank" width="150" height="150" /></a>
+</p>
+
 ## Contact:
 Please send any comment, suggestion or question you may have to the author (Mr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.

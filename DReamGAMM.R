@@ -56,7 +56,8 @@ dss <- lapply(1:length(dss), function(y) {colnames(dss[[y]])[1] <-"Y"
 pboptions(style = 3, char = ">")
 gamm_fit <- pblapply(1:length(dss), function(x) gamm4(Y~s(day)+group, random=~(1|rat), data = dss[[x]])) # adjust to your data
 gamm_res <- pblapply(1:length(gamm_fit), function(x) summary(gamm_fit[[x]]$gam))
-gamm_pval <- as.data.frame(sapply(1:length(gamm_res), function(x) p.adjust(gamm_res[[x]][["s.table"]][4], method = "BH"))) # adjust to your data
+gamm_pval <- as.data.frame(sapply(1:length(gamm_res), function(x) gamm_res[[x]][["s.table"]][4])) # adjust to your data
+gamm_pval[,1] <- p.adjust(gamm_pval[,1], "BH")
 rownames(gamm_pval) <- colnames(dat)[-c(1:n_meta)]
 g_t <- 0.0000001
 gamm_ind <- which(gamm_pval <= g_t)

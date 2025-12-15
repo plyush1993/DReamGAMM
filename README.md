@@ -2,6 +2,8 @@
 ## Brief Description
 R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model.
 
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03655-3/MediaObjects/216_2021_3655_Figa_HTML.png?as=webp" align="center" width="700" height="500">
+
 ## Requirements:
 [R](https://cloud.r-project.org/) (version ≥ 4.0.0), [gamm4](https://cran.r-project.org/web/packages/gamm4/index.html) [[1]](https://www.taylorfrancis.com/books/mono/10.1201/9781315370279/generalized-additive-models-simon-wood) and [DRomics](https://cran.r-project.org/web/packages/DRomics/index.html) [[2]](https://pubs.acs.org/doi/10.1021/acs.est.8b04752) packages.
 
@@ -11,8 +13,6 @@ R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model
 <p align="center">
   <a href="https://www.scimagojr.com/journalsearch.php?q=23913&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23913" alt="SCImago Journal &amp; Country Rank" width="150" height="150" /></a>
 </p>
-
-<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03655-3/MediaObjects/216_2021_3655_Figa_HTML.png?as=webp" align="center" width="700" height="500">
 
 ## Contact:
 Please send any comment, suggestion or question you may have to the author (Dr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.

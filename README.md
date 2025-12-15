@@ -1,4 +1,4 @@
-# DReamGAMM
+# DReamGAMM 
 ## Brief Description
 R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model.
 
@@ -11,6 +11,8 @@ R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model
 <p align="center">
   <a href="https://www.scimagojr.com/journalsearch.php?q=23913&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=23913" alt="SCImago Journal &amp; Country Rank" width="150" height="150" /></a>
 </p>
+
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03655-3/MediaObjects/216_2021_3655_Figa_HTML.png?as=webp" align="center" width="700" height="500">
 
 ## Contact:
 Please send any comment, suggestion or question you may have to the author (Dr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.

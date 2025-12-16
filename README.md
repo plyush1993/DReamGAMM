@@ -2,8 +2,9 @@
 ## Brief Description
 R script for Dose-Response enhanced modeling by Generalized Additive Mixed Model.
 
+</a><a href="https://link.springer.com/article/10.1007/s00216-021-03655-3">
 <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-021-03655-3/MediaObjects/216_2021_3655_Figa_HTML.png?as=webp" align="center" width="700" height="500">
-
+</a>
 ## Requirements:
 [R](https://cloud.r-project.org/) (version ≥ 4.0.0), [gamm4](https://cran.r-project.org/web/packages/gamm4/index.html) [[1]](https://www.taylorfrancis.com/books/mono/10.1201/9781315370279/generalized-additive-models-simon-wood) and [DRomics](https://cran.r-project.org/web/packages/DRomics/index.html) [[2]](https://pubs.acs.org/doi/10.1021/acs.est.8b04752) packages.
 
